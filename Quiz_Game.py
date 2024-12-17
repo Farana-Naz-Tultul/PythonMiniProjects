@@ -61,3 +61,4 @@ else:
 
 print("You Got " + str(score) + " Questions Correct!")
 print("You Got " + str((score/6)*100) + "%.")
+print("Just checking")
